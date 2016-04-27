@@ -1,5 +1,5 @@
-== ReactWeather
-=== Weather app written in ReactJs
+# ReactWeather
+## Weather app written in ReactJs
 * Install webpack npm install -g webpack
 * Run npm install 
 * Run webpack
